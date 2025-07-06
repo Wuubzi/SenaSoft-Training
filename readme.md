@@ -1,6 +1,6 @@
 # Repositorio de Prácticas para SENAsoft - Ficha 2933470
 
-Este repositorio tiene como objetivo ser un espacio colaborativo para que los estudiantes del SENA practiquen algoritmos de programación y lógica, tanto en **PSeInt** como en un lenguaje de programación adicional como **Python**.
+Este repositorio tiene como objetivo ser un espacio colaborativo para que los estudiantes del SENA practiquen algoritmos de programación y lógica, tanto en **PSeInt** como en un lenguaje de programación adicional de su preferencia (que se encuentren dentro de los posibles).
 
 ---
 
@@ -19,7 +19,7 @@ senasoft-algoritmos/
 │   │   ├── enunciado1.md
 │   │   ├── pseint/
 │   │   │   └── solucion1.psc
-│   │   └── python/
+│   │   └── lenguaje-preferencia/
 │   │       └── solucion1.py
 │   ├── ciclos/
 │   ├── arreglos/
@@ -51,7 +51,7 @@ senasoft-algoritmos/
 **Soluciones:**
 - `/ejercicios/cadenas/enunciado1.md`
 - `/ejercicios/cadenas/pseint/solucion1.psc`
-- `/ejercicios/cadenas/python/solucion1.py`
+- `/ejercicios/cadenas/python/solucion1.c`
 
 ---
 
@@ -95,10 +95,6 @@ git push origin nombre-rama
 
 ---
 
-## 🚀 Participantes
-Agrega tu nombre aquí si colaboras:
-- [ ] Nombre 1
-- [ ] Nombre 2
 - [ ] Nombre 3
 
 ---
