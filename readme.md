@@ -1,6 +1,6 @@
 # Repositorio de Prácticas para SENAsoft - Ficha 2933470
 
-Este repositorio tiene como objetivo ser un espacio colaborativo para que los estudiantes del SENA practiquen algoritmos de programación y lógica, tanto en **PSeInt** como en un lenguaje de programación adicional de su preferencia (que se encuentren dentro de los posibles).
+Este repositorio tiene como objetivo ser un espacio colaborativo para que practiquemos algoritmos de programación y lógica, tanto en **PSeInt** como en un lenguaje de programación adicional de su preferencia (que se encuentren dentro de los posibles).
 
 ---
 
